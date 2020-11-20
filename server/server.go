@@ -3,7 +3,7 @@ package server
 import (
 	"log"
 	"net/http"
-	services "GopherTranslate/services"
+	services "Translate/services"
 )
 
 
