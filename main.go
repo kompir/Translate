@@ -5,8 +5,8 @@ import (
 	"os"
 	"strconv"
 	"sync"
-	"task/server"
-	"task/services"
+	"Translate/server"
+	"Translate/services"
 )
 
 /** Initiate Server And Storage */
