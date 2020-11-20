@@ -3,7 +3,7 @@ package server
 import (
 	"log"
 	"net/http"
-	services "Translate/services"
+	"github.com/kompir/Translate/services"
 )
 
 
