@@ -5,8 +5,8 @@ import (
 	"os"
 	"strconv"
 	"sync"
-	"Translate/server"
-	"Translate/services"
+	"github.com/kompir/Translate/server"
+	"github.com/kompir/Translate/services"
 )
 
 /** Initiate Server And Storage */
